@@ -185,7 +185,7 @@ A comprehensive Windows desktop application built with C# and SQL Server for uni
 ---
 
 ### **Leave Management System — HR Automation**  
-Complete leave management solution for Lapis Group, digitizing paper-based Annex-5 forms into a modern web platform. Features employee self-service portals, automated manager approval workflows, real-time balance tracking for 7 leave types, HR analytics dashboard, and mobile-responsive design serving 60+ employees.
+Complete leave management solution for Lapis Group, digitizing paper-based Annex-5 forms into a modern web platform. Features employee self-service portals, automated manager approval workflows, real-time balance tracking for 7 leave types, HR analytics dashboard, and mobile-responsive design serving 90+ employees.
 
 👉 **Live:** [senf.af/leave](https://senf.af/leave)
 
