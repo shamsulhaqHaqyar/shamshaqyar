@@ -155,6 +155,18 @@ Worked with the team to enhance the website’s design and functionality, improv
 
 ---
 
+### **Lapis Group — Procurement Page**
+Built a branded procurement page on a live WordPress site using custom HTML/CSS. Extracted exact fonts and colors via Chrome DevTools, resolved Salient/WPBakery theme conflicts with page-specific CSS — fully responsive, zero impact on the rest of the site.
+
+👉 [Visit Page](https://lapis-group.com/requests-for-prices/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![WPBakery](https://img.shields.io/badge/WPBakery-0073AA?style=flat-square&logo=wordpress&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+
+---
 ### **Pharmacy Management System**  
 A comprehensive Windows desktop application for end-to-end pharmacy operations. Features include inventory tracking, doctor and patient management, sales management, purchase records, and detailed reporting; designed to streamline daily pharmacy workflows.
 
