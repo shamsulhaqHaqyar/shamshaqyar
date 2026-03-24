@@ -154,6 +154,15 @@ Worked with the team to enhance the website’s design and functionality, improv
 👉 [Visit Lapis Group](https://lapis-group.com/)
 
 ---
+Configured and styled a dynamic careers/jobs page with keyword search, location filtering, and job type categories. Customized the WP Job Manager plugin with CSS to match the site's branding and ensured a clean, responsive layout for job seekers.
+
+👉 [Visit Page](https://lapis-group.com/jobs/)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WP Job Manager](https://img.shields.io/badge/WP%20Job%20Manager-0073AA?style=flat-square&logo=wordpress&logoColor=white)
+
+---
 
 ### **Lapis Group — Procurement Page**
 Built a branded procurement page on a live WordPress site using custom HTML/CSS. Extracted exact fonts and colors via Chrome DevTools, resolved Salient/WPBakery theme conflicts with page-specific CSS — fully responsive, zero impact on the rest of the site.
