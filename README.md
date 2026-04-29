@@ -9,12 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+%40+Lapis+Group" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+Technology+%26+AI" alt="Typing SVG" />
 </p>
 
 # Shams Haqyar — AI Engineer, Software Developer & Web Technologist
 
-AI Engineer and Software Developer specializing in multilingual chatbots, digital platforms, and intelligent systems — empowering Afghanistan with technology and AI.
+AI Engineer and Software Developer specializing in multilingual chatbots, digital platforms, and intelligent systems — Team Lead Technology & AI and empowering Afghanistan with technology and AI.
 
 ---
 
@@ -26,6 +26,8 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 - **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
 - **Messaging Integrations** — WhatsApp & Telegram bot deployment via APIs, webhooks, and cloud infrastructure 
 - **HR Automation** — Digital leave management systems with role-based workflows and real-time tracking
+- **[Noorix AI Academy](https://noorixai.org)** — Founder-led AI-powered online education platform  
+- **Internal AI Tools** — Building AI systems, recruitment automation, HR letter generation, and telecom pipelines
 - **Content & Data Workflows** — Managing LMS content, pipelines, reporting, and automation  
 
 ---
@@ -33,7 +35,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,linux,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,azure,linux,github,wordpress"" />
 </p>
 
 ---
@@ -78,6 +80,9 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot%20Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -217,12 +222,65 @@ Complete leave management solution for Lapis Group, digitizing paper-based Annex
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ---
 
+---
+
+### **SENF WhatsApp Broadcast System**
+A PHP/Apache/MariaDB broadcast panel on AWS EC2 enabling non-technical staff to send personalized WhatsApp messages to thousands of students at scale. Integrated with Meta Business API using approved message templates, with a clean admin UI for managing contacts and campaigns.
+
+👉 **Repo:** [senf-whatsapp-broadcast](https://github.com/shamsulhaqHaqyar/senf-whatsapp-broadcast)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+
+---
+
+### **Online Recruitment Requisition System**
+Replaced a manual Word document hiring process with a web-based requisition form. Automatically generates a formatted PDF, routes approval to line managers with HR in CC via Gmail SMTP (PHPMailer), and maintains a submission log.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHPMailer](https://img.shields.io/badge/PHPMailer-DD4814?style=flat-square)
+![FPDF](https://img.shields.io/badge/FPDF-4CAF50?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### **HR Letter Generator**
+A standalone, zero-backend HTML tool using jsPDF and html2canvas to generate professional HR letters (experience letters, salary certificates, employment verification) with auto-incrementing reference numbers stored in localStorage. No server required — runs entirely in the browser.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jsPDF](https://img.shields.io/badge/jsPDF-FF6F61?style=flat-square)
+
+---
+
+### **Noorix AI Academy — website**
+Designed and built the Noorix AI Academy website with a custom HTML/CSS layout embedded in Elementor on WordPress/Hostinger. Resolved Astra theme conflicts, integrated brand assets, and connected all social and platform links.
+
+👉 [Visit Noorix AI Academy](https://noorixai.org)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+### **Telecom Automation**
+Built an end-to-end automation pipeline using Microsoft Forms, Power Automate, Excel Online, and Google Sheets to validate and submit phone numbers to a telecom partner for next step. Includes duplicate prevention and structured delivery workflow.
+
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![Microsoft Forms](https://img.shields.io/badge/Microsoft%20Forms-258FFA?style=flat-square&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
 ## 📚 Education & Professional Background  
 
 - 🎓 **BCS in Computer Science**, University of Allahabad-India — **🏅 Topper of the Batch**
 - 📜 **Leadership & Communication**, Headway International-Uzbekistan (2021)
 - 💻 **Web and Database**, Excellent Start Academy-Pakistan (2014-2015)
-- **6+ years** in software engineering, AI systems, EdTech, Web development, Information and data management  
+- **7+ years** in software engineering, AI systems, EdTech, HR Tech, Web development, Information & data Management and AI/automation systems 
 - Experience in:
   - AI chatbot development  
   - Data pipelines and reporting  
