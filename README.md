@@ -21,7 +21,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🔭 Current Focus
 
 - **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students   
-- **[Kankor.af](https://kankor.af/)** — Scalable digital education platform for Kankor exam preparation  
+- **[Kankoristan.af](https://kankoristan.af/)** — Scalable digital education platform for Kankor exam preparation  
 - **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
 - **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
 - **Messaging Integrations** — WhatsApp & Telegram bot deployment via APIs, webhooks, and cloud infrastructure 
@@ -124,7 +124,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ### **Lalah — Multilingual AI Chatbot**
 A custom built educational chatbot for students powered by LangChain, Redis, ChromaDB, RAG, OpenAI/Gemini, Flask, and AWS. Culturally aware, curriculum aligned, and privacy first; Lalah respects Afghan values and Islamic principles while delivering personalized learning in Dari, Pashto, and English.
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/78knlw)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vye9x1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lalah_Senf_bot)
 [![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorbot.senf.af/)
 
@@ -138,7 +138,7 @@ A structured LMS for curriculum content, activities, student learning, learning 
 
 ### **Kankor.af — LMS for Kankor Students**  
 A digital platform and application for students providing Kankor exam preparation, mock exams, past papers, and progress tracking.  
-👉 [Visit Kankor.af](https://kankor.af/)
+👉 [Visit Kankoristan.af](https://kankoristan.af/)
 
 ---
 
