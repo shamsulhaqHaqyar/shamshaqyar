@@ -20,7 +20,8 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 
 ## 🔭 Current Focus
 
-- **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students   
+- **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students
+- **[CLAST AI Engine](https://chat.clast.io)** — Production AI microservice for CLAST.io — Student AI Tutor + Staff Data Chat across Afghanistan and GCC 
 - **[Kankoristan.af](https://kankoristan.af/)** — Scalable digital education platform for Kankor exam preparation  
 - **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
 - **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
@@ -35,7 +36,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,azure,linux,github,wordpress"" />
+  <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,azure,linux,github,wordpress,docker" />
 </p>
 
 ---
@@ -85,6 +86,9 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Web Development & CMS**
 
@@ -127,6 +131,27 @@ A custom built educational chatbot for students powered by LangChain, Redis, Chr
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vye9x1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lalah_Senf_bot)
 [![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorbot.senf.af/)
+
+---
+
+### **CLAST AI Engine — Multi-Tenant AI Microservice**
+A production-grade standalone AI microservice for [CLAST.io](https://clast.io) by ULEARNA TECHNOLOGY LTD, powering two AI surfaces for schools, academies, and universities across Afghanistan and the GCC.
+
+- **Surface A — Student AI Tutor:** RAG pipeline with Million words of curriculum content via pgvector + Google Gecko Multilingual embeddings
+- **Surface B — Staff Data Chat:** Natural language queries on live institutional data (fees, attendance, enrolment) via Gemini function calling and role-based tool access
+- **Built with:** Python, FastAPI, Google Gemini, pgvector, PostgreSQL, Redis, LangChain, Docker, DigitalOcean
+- **Features:** Multi-tenant isolation, student context injection, multilingual (Dari, Pashto, Arabic, English), SSE streaming, chat history, feedback system, token budget enforcement, rate limiting
+
+👉 [Live at chat.clast.io](https://chat.clast.io)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 
 ---
 
