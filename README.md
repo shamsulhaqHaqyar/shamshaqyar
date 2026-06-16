@@ -21,7 +21,8 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🔭 Current Focus
 
 - **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students
-- **[CLAST AI Engine](https://chat.clast.io)** — Production AI microservice for CLAST.io — Student AI Tutor + Staff Data Chat across Afghanistan and GCC 
+- **[CLAST AI Engine](https://clast.io)** — Production AI microservice for CLAST.io — Student AI Tutor + Staff Data Chat across Afghanistan and GCC
+- **[AOU Chatbot](https://chat.afgou.org)** — A production-grade multilingual AI chatbot for Afghanistan Open University students
 - **[Kankoristan.af](https://kankoristan.af/)** — Scalable digital education platform for Kankor exam preparation  
 - **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
 - **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
@@ -152,6 +153,31 @@ A production-grade standalone AI microservice for [CLAST.io](https://clast.io) b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+
+---
+
+### **AOU Chatbot — Afghanistan Open University AI Assistant**
+A production-grade multilingual AI chatbot for Afghanistan Open University students, delivering accurate university information in Dari, Pashto, and English via web, WhatsApp, and Telegram. Built with a full RAG pipeline on scraped university content, conversation memory, and automatic monthly knowledge updates.
+
+- **RAG Pipeline:** LangChain + ChromaDB + OpenAI embeddings — retrieves accurate AOU-specific answers
+- **LLMs:** Google Gemini (primary) + OpenAI GPT-4o-mini (fallback)
+- **Channels:** Web chat, WhatsApp Business API, Telegram Bot
+- **Infrastructure:** Docker + Nginx + SSL on IONOS VPS, GitHub CI/CD, Redis memory
+- **Knowledge base:** vectors from scraped afgou.org content + university documents
+- **Performance:** ~1.2s response time, auto-scraping monthly cron job
+
+👉 [Live at chat.afgou.org](https://chat.afgou.org)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4ECDC4?style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 
 ---
 
