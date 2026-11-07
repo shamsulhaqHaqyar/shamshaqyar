@@ -39,7 +39,6 @@ AI Engineer and Software Developer with 7+ years of experience in AI systems, so
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,azure,linux,github,wordpress,docker" />
-  ![Moodle](https://img.shields.io/badge/Moodle-LMS-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 </p>
 
 ---
