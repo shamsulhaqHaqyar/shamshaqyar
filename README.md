@@ -20,8 +20,6 @@ AI Engineer and Software Developer with 7+ years of experience in AI systems, so
 
 ## 🔭 Current Focus
 
-## 🔭 Current Focus
-
 - **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students.
 - **[SENF & Kankor Moodle LMS](https://lms.senf.af)** — Migration and digital transformation of two educational platforms to Moodle, including user integration, course management, performance tracking, and learning journey monitoring.
 - **[KarwanSeray](https://karwanseray.com)** — Trilingual (Dari, Pashto & English) multi-vendor e-commerce marketplace for Afghanistan.
