@@ -9,30 +9,31 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+Technology+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+7%2B+Years+Experience;Multilingual+AI+%26+Chatbot+Developer;EdTech+%26+Digital+Transformation;Technology+%26+AI+Lead" alt="Typing SVG" />
 </p>
 
-# Shams Haqyar — AI Engineer, Software Developer & Web Technologist
+# Shams Haqyar — AI Engineer, Software Developer & Technology Lead
 
-AI Engineer and Software Developer specializing in multilingual chatbots, digital platforms, and intelligent systems — Team Lead Technology & AI and empowering Afghanistan with technology and AI.
+AI Engineer and Software Developer with 7+ years of experience in AI systems, software engineering, digital education platforms, information management, and technology-driven solutions. Focused on building scalable AI applications, educational technology, enterprise systems, and digital transformation initiatives.
 
 ---
 
 ## 🔭 Current Focus
 
-- **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students
-- **[KarwanSeray](https://karwanseray.com)** — Trilingual (Dari, Pashto & English) multi-vendor e-commerce marketplace for Afghanistan
-- **[CLAST AI Engine](https://clast.io)** — Production AI microservice for CLAST.io — Student AI Tutor + Staff Data Chat across Afghanistan and GCC
-- **[Future Bridge International Foundation](https://futurebridgeif.org)** — WordPress Multisite development for a Canadian not-for-profit focused on education access
-- **[AOU Chatbot](https://chat.afgou.org)** — A production-grade multilingual AI chatbot for Afghanistan Open University students
-- **[Kankoristan.af](https://kankoristan.af/)** — Scalable digital education platform for Kankor exam preparation  
-- **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
-- **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
-- **Messaging Integrations** — WhatsApp & Telegram bot deployment via APIs, webhooks, and cloud infrastructure 
-- **HR Automation** — Digital leave management systems with role-based workflows and real-time tracking
-- **[Noorix AI Academy](https://noorixai.org)** — Founder-led AI-powered online education platform  
-- **Internal AI Tools** — Building AI systems, recruitment automation, HR letter generation, and telecom pipelines
-- **Content & Data Workflows** — Managing LMS content, pipelines, reporting, and automation  
+## 🔭 Current Focus
+
+- **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students.
+- **[SENF & Kankor Moodle LMS](https://lms.senf.af)** — Migration and digital transformation of two educational platforms to Moodle, including user integration, course management, performance tracking, and learning journey monitoring.
+- **[KarwanSeray](https://karwanseray.com)** — Trilingual (Dari, Pashto & English) multi-vendor e-commerce marketplace for Afghanistan.
+- **[CLAST AI Engine](https://clast.io)** — Production AI microservice for CLAST.io, powering Student AI Tutor and Staff Data Chat.
+- **[AOU Chatbot](https://chat.afgou.org)** — Production-grade multilingual AI chatbot for Afghanistan Open University students.
+- **[Future Bridge International Foundation](https://futurebridgeif.org)** — WordPress Multisite development for a Canadian not-for-profit focused on education access.
+- **Cloud & AI Infrastructure** — Deploying AI applications using AWS, Redis, ChromaDB, Flask, FastAPI, and Docker.
+- **Messaging Integrations** — WhatsApp and Telegram bot deployment via APIs, webhooks, and cloud infrastructure.
+- **HR Automation** — Digital HR and leave management systems with role-based workflows and real-time tracking.
+- **[Noorix AI Academy](https://noorixai.org)** — AI-powered online education platform.
+- **Enterprise Systems** — Developing ERP, MIS, school management systems, recruitment automation, and business process solutions.
+- **Content & Data Workflows** — Managing LMS content, educational data, reporting, and automation.
 
 ---
 
@@ -40,6 +41,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,azure,linux,github,wordpress,docker" />
+  ![Moodle](https://img.shields.io/badge/Moodle-LMS-F98012?style=for-the-badge&logo=moodle&logoColor=white)
 </p>
 
 ---
@@ -101,6 +103,10 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![CMS](https://img.shields.io/badge/CMS-2E7D32?style=for-the-badge)
+![Moodle LMS](https://img.shields.io/badge/Moodle%20LMS-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![Learning Analytics](https://img.shields.io/badge/Learning%20Analytics-1976D2?style=for-the-badge)
+![LMS Administration](https://img.shields.io/badge/LMS%20Administration-2E7D32?style=for-the-badge)
+![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-673AB7?style=for-the-badge)
 
 ### **Data Collection & Analysis**
 
@@ -220,15 +226,27 @@ Developed a static HTML/CSS/JS website into a custom-built WordPress theme on a 
 
 ---
 
-### **Senf.af — LMS for Students**  
-A structured LMS for curriculum content, activities, student learning, learning materials in Dari and Pashto from Grade 7 to Grade 12.
-👉 [Visit Senf.af](https://senf.af/)
+### **SENF & Kankor — Moodle LMS Migration & Digital Transformation**
+
+Successfully migrated two established digital education platforms, SENF and Kankor, from their previous CMS/LMS infrastructure to Moodle LMS, creating a more centralized, scalable, and structured learning environment.
+
+- **Platform Migration:** Migrated SENF and Kankor to Moodle LMS.
+- **User Management:** Integrated existing student and user accounts into the new platform.
+- **Course Management:** Migrated and organized educational courses, learning materials, and resources.
+- **Learning Analytics:** Enabled student performance tracking, activity monitoring, and learning progress visibility.
+- **Learning Journey:** Improved the ability to monitor student engagement and learning activities.
+- **Assessments:** Supported structured learning activities, mock examinations, and past papers.
+- **Platform:** Moodle LMS.
+
+👉 **Live Platform:** [lms.senf.af](https://lms.senf.af)
+
+![Moodle](https://img.shields.io/badge/Moodle-LMS-F98012?style=flat-square&logo=moodle&logoColor=white)
+![EdTech](https://img.shields.io/badge/Education%20Technology-1976D2?style=flat-square)
+![Data Migration](https://img.shields.io/badge/Data%20Migration-4CAF50?style=flat-square)
+![Learning Analytics](https://img.shields.io/badge/Learning%20Analytics-673AB7?style=flat-square)
+![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-0078D4?style=flat-square)
 
 ---
-
-### **Kankor.af — LMS for Kankor Students**  
-A digital platform and application for students providing Kankor exam preparation, mock exams, past papers, and progress tracking.  
-👉 [Visit Kankoristan.af](https://kankoristan.af/)
 
 ---
 
